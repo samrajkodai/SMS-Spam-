@@ -16,7 +16,7 @@ The dataset has several punctuations. Punctuations are often unnecessary as it d
                  import string
                  string.punctuation
                  
-## Stopwords
+## Stopwords:
 ![stop-word](https://user-images.githubusercontent.com/61903698/134461738-aa31ae44-c394-43cc-8123-935b9f20cf57.jpg)
 
 Stop words are irrelevant words that won’t help in identifying a text as real or fake. We will use “nltk” library for stop-words and some of the stop words in this library are :
